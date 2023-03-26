@@ -1,7 +1,7 @@
 echo "Output for problem 3.14:"
-./3_14 35
+./3_14 25
 echo "Output for problem 3.15:"
-./3_15 35
+./3_15 25
 echo "Test for problem 3.20:"
 
 old_file="./bible.txt"
